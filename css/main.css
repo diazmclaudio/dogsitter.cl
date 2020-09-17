@@ -1,7 +1,17 @@
-.fa-whatsapp{
+.foto-circulo {
+     max-width: 300px;
+     max-height: 300px;
+}
+
+.fa-whatsapp {
      color: green;
 }
 
-.footer, .productos{
-     background-color:khaki;
+.productos {
+     background-color: khaki;
+}
+
+.footer {
+     background-color: #686963;
+     color: white;
 }
